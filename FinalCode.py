@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
+print("Hello World")
 window = Tk()
 window.geometry("1300x700+0+0")
 window.maxsize(width = 1280,height = 700)
